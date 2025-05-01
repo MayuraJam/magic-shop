@@ -1,0 +1,153 @@
+
+h1 {
+  color: green;
+  text-align: left;
+  font-family: "Audiowide", sans-serif;
+}
+body {
+  background-color: #85c1e9;
+  max-width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+div {
+  color: cadetblue;
+  font-size: 20px;
+  padding: 20px;
+  background-color: #f2f3f4;
+  margin: 15px 10px 15px 10px;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  column-gap: 5px;
+  row-gap: 15px;
+  width: 100%;
+  height: 100%;
+}
+.grid-item {
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid gray;
+  background-color: azure;
+  cursor: pointer;
+}
+.grid-item:hover {
+  background-color: #f7dc6f;
+  color: blue;
+  box-shadow: 10px 10px 5px gray;
+  border-color: #f7dc6f;
+}
+.colar {
+  width: 100%;
+  height: 20px;
+  background-color: red;
+}
+.logo {
+  padding: 0%;
+  margin: auto;
+  margin-top: -40px;
+  height: 270px;
+  width: 270px;
+  background-color: #f7dc6f;
+  border-radius: 100%;
+  border: 3px solid #f7dc6f;
+}
+.head {
+  width: 100%;
+  height: 200px;
+}
+.img {
+  margin: auto;
+  height: auto;
+  width: auto;
+  border-radius: 15px;
+}
+.price {
+  border-radius: 60px;
+  font-family: "Audiowide", sans-serif;
+}
+h3 {
+  height: 50px;
+  width: 130px;
+  line-height: 50px;
+  border: 2px solid white;
+  border-radius: 60px;
+  text-align: center;
+  margin-left: 40px;
+  background-color: white;
+  font-size: 30px;
+  font-family: "Audiowide", sans-serif;
+}
+button {
+  height: 50px;
+  width: 190px;
+  margin: auto;
+  box-sizing: border-box;
+  border: 2px solid #58d68d;
+  border-radius: 60px;
+  font-family: "Audiowide", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  color: #58d68d;
+  background-color: azure;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #79b0a1;
+  border-color: #79b0a1;
+  color: #d5f5e3;
+}
+button:active {
+  background-color: white;
+  color: #79b0a1;
+}
+.footer {
+  width: 100%;
+  background-color: red;
+}
+.footer p {
+  text-align: center;
+  color: black;
+  font-family: "Audiowide", sans-serif;
+}
+.footer p:hover {
+  color: #f7dc6f;
+}
+.badge {
+  background-color: red;
+  color: white;
+  padding: 4px 8px;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 20px;
+  font-family: "Audiowide", sans-serif;
+  font-size: 20px;
+}
+.price4 {
+  text-decoration: line-through;
+  color: red;
+  font-family: "Audiowide", sans-serif;
+  border-radius: 60px;
+}
+.discount {
+  color: cadetblue;
+  font-family: "Audiowide", sans-serif;
+  border-radius: 60px;
+}
+.feedback {
+  background-color: #31b0d5;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 60px;
+  border-color: #46b8da;
+  position: fixed;
+  bottom: -4px;
+  right: 10px;
+  box-shadow: 5px 5px 5px black;
+  border: 2px solid white;
+}

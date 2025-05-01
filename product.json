@@ -1,0 +1,64 @@
+[
+    {
+        "productId":"1",
+        "productName":"กระเป๋าคุณหมอ",
+        "image":"https://pbs.twimg.com/media/C3u7ArKVUAEErNR?format=jpg&name=small",
+        "price" : "1,000,000",
+        "productStatus" : "New"
+    },
+    {
+        "productId":"2",
+        "productName":"เครื่องสร้างภูมิทัศน์จำลอง",
+        "image":"https://pbs.twimg.com/media/DjGq9f_UUAIPr9x?format=jpg&name=large",
+        "price" : "500,000",
+        "productStatus" : "nomal"
+    },
+    {
+        "productId":"3",
+        "productName":"กล้องเปลี่ยนเสื้อผ้า",
+        "image":"https://pbs.twimg.com/media/ChxAmRrUoAASrVp?format=jpg&name=small",
+        "price" : "50,000",
+        "productStatus" : "new"
+    },{
+        "productId":"4",
+        "productName":"ไฟฉายย่อส่วน",
+        "image":"https://pbs.twimg.com/media/EcoZlwyUYAA3Izc?format=jpg&name=small",
+        "price" : "300,000",
+        "productStatus" : "discount",
+        "discount" : 20
+    },
+    {
+        "productId":"5",
+        "productName":"ขนมให้สัตว์เชื่อง",
+        "image":"https://pbs.twimg.com/media/C5bCpvYUYAEw3KS?format=jpg&name=small",
+        "price" : "30,000",
+        "productStatus" : "nomal"
+    },
+    {
+        "productId":"6",
+        "productName":"ตู้โทรศัพท์ติ๊ต่าง",
+        "image":"https://www.marumura.com/wp-content/uploads/2020/10/doraemon-no-himitsu-dougu-2-800x456.jpg",
+        "price" : "600,000",
+        "productStatus" : "nomal"
+    },{
+        "productId":"7",
+        "productName":"บ้านรากไม้",
+        "image":"https://pbs.twimg.com/media/ETnlFNBUwAITNW1?format=jpg&name=small",
+        "price" : "1,000,000",
+        "productStatus" : "nomal"
+    },
+    {
+        "productId":"8",
+        "productName":"ประตูไปไหนก็ได้",
+        "image":"https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1584847909/rgxdkmyc58wbdwk8qov0.jpg",
+        "price" : "1,500,000",
+        "productStatus" : "nomal"
+    },
+    {
+        "productId":"9",
+        "productName":"ผ้าคลุมกาลเวลา",
+        "image":"https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1584847909/rgxdkmyc58wbdwk8qov0.jpg",
+        "price" : "1,500,000",
+        "productStatus" : "nomal"
+    }
+]
